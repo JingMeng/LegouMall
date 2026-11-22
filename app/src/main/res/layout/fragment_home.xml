@@ -32,7 +32,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="175dp">
 
-                <android.support.v4.view.ViewPager
+                <androidx.viewpager.widget.ViewPager
                     android:id="@+id/ad_vp"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent" />
@@ -98,11 +98,11 @@
                     android:textSize="12sp" />
             </RelativeLayout>
 
-            <android.support.v7.widget.RecyclerView
+            <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/recyclerview"
                 android:layout_width="match_parent"
                 android:layout_height="180dp"
-                android:background="@android:color/white"></android.support.v7.widget.RecyclerView>
+                android:background="@android:color/white"></androidx.recyclerview.widget.RecyclerView>
             <!--<com.m520it.jdmall03.ui.HorizontalListView-->
             <!--android:id="@+id/horizon_listview"-->
             <!--android:layout_width="match_parent"-->
@@ -118,7 +118,7 @@
                 android:textColor="#F00"
                 android:textSize="16sp" />
 
-            <android.support.v7.widget.RecyclerView
+            <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/recommend_gv"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

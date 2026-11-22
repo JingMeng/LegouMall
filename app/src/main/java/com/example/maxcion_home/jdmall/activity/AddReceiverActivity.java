@@ -3,7 +3,7 @@ package com.example.maxcion_home.jdmall.activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Message;
-import android.support.v7.app.AlertDialog;
+import androidx.appcompat.app.AlertDialog;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.AdapterView;

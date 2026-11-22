@@ -2,7 +2,7 @@ package com.example.maxcion_home.jdmall.activity;
 
 import android.os.Bundle;
 import android.os.Message;
-import android.support.design.widget.TextInputLayout;
+import com.google.android.material.textfield.TextInputLayout;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.Button;

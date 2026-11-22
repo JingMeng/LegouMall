@@ -2,7 +2,7 @@ package com.example.maxcion_home.jdmall.fragment;
 
 import android.os.Handler;
 import android.os.Message;
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 import com.example.maxcion_home.jdmall.controls.BaseController;
 import com.example.maxcion_home.jdmall.interfaces.IModeChangeListener;
